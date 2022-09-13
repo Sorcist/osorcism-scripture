@@ -1,6 +1,6 @@
 # Overview
 
-This is the first repository of scriptures for the religion of Osourcism.
+This is the first repository of scriptures for the open source religion I that founded.
 
 According to the Wikipedia a religion is:
 
