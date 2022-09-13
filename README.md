@@ -14,8 +14,4 @@ Regardless of the fact that today’s mainstream understanding; a religion:
 - Is not necessarily include Heaven and Hell.
 - Is not necessarily be immutable.
 
-In the interest of brevity, from the eyes of the creator of this repository, a religion is a set of beliefs. 
-
-I am believing in things; like friendships, power of scientific methods, how miraculous life is, and how beautiful producing stuff. Comparing my own beliefs with what is been defined so far as “set of beliefs or religion” I can’t find a perfect match. That is, what I am believing in is never introduced as a religion ever before and never systematically introduced.
-
-This repository organizes my set of exact beliefs, spread to multiple chapters, thread and thrum.
+Simply put, a religion is a set of beliefs, and this is what you are going to see while discovering this repository.
